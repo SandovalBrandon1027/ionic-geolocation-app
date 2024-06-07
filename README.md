@@ -3,7 +3,9 @@
 <h3>npm install --force</h3>
 <h3>Utilizamos el --force para forzar la instalacion de las dependecias ya que aveces podemos tener versiones desactualizadas la cual no pueden ser instaladas</h3>
 <h1>2:Establecer nuestras credenciales</h1>
-![image](https://github.com/SandovalBrandon1027/App-para-subir-archivos-con-Storage/assets/117743657/c69991a7-fa06-4c2b-aa0d-e141e5e532e7) <br>
+
+![image](https://github.com/SandovalBrandon1027/App-para-subir-archivos-con-Storage/assets/117743657/c69991a7-fa06-4c2b-aa0d-e141e5e532e7).
+<br>
 <h3>Estas credenciales las encontramos disponibles en nuestro Firebase y deben ser declaradas en el archivo environment.ts</h3>
 <h1>3:Debemos reconstuir el proyecto </h1>
 <h3>ionic build  <br> ocupamos este comando para poder crear la carpeta .www</h3>
@@ -13,7 +15,10 @@ leugo debemos copiar los archivos dentro de la carpeta .www y copiarlas dentro d
 <h1>5:Deploy</h1>
 <h3>Dentro de la carpeta hosting ejecutamos el siguiente comando <br> firebase deploy <br> y con esto tenemos nuestro deploy en web</h3>
 <h1>6:Demostracion</h1>
-![image](https://github.com/SandovalBrandon1027/ionic-geolocation-app/assets/117743657/0b3a81e1-857b-4d15-a68c-6073c4521414) <br>
+
+![image](https://github.com/SandovalBrandon1027/ionic-geolocation-app/assets/117743657/0b2c9ab2-7d73-4bf5-bed6-eb78310564ce) <br>
+
+
 ![image](https://github.com/SandovalBrandon1027/ionic-geolocation-app/assets/117743657/63946924-6a47-4e23-a865-a3b51cb51da0) <br>
 
 
