@@ -22,7 +22,8 @@ leugo debemos copiar los archivos dentro de la carpeta .www y copiarlas dentro d
 ![image](https://github.com/SandovalBrandon1027/ionic-geolocation-app/assets/117743657/63946924-6a47-4e23-a865-a3b51cb51da0) <br>
 
 
-<h2>Deploy web:  https://proyecto-1-32090.web.app </h2>
+<h2>Deploy web: </h2>
+https://proyecto-1-32090.web.app 
 <h2>Deploy movil:                           </h2>
 
 
